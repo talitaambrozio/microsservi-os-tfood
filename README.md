@@ -3,7 +3,7 @@
 Projeto de Microsserviços desenvolvido durante o curso de Microsserviços na prática: Implementando com Java e Spring, da Alura.
 
 ## Descrição do sistema 🔧
-Foram desenvolvidos 4 microsserviços que se comunicam:
+Foram desenvolvidos os seguintes microsserviços:
 
 - Pedidos:  API para realização de pedidos, contém o CRUD básico, criação de pedidos, consultas, 
 atualização e exclusão. Os pedidos contém id, data e hora da criação, itens e status.
