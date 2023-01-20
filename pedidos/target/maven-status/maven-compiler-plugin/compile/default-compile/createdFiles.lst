@@ -1,0 +1,11 @@
+com\pedidos\pedidos\controller\PedidoController.class
+com\pedidos\pedidos\repository\PedidoRepository.class
+com\pedidos\pedidos\service\PedidoService.class
+com\pedidos\pedidos\dto\StatusDto.class
+com\pedidos\pedidos\PedidosApplication.class
+com\pedidos\pedidos\config\Configuracao.class
+com\pedidos\pedidos\dto\ItemDoPedidoDto.class
+com\pedidos\pedidos\model\Pedido.class
+com\pedidos\pedidos\dto\PedidoDto.class
+com\pedidos\pedidos\model\Status.class
+com\pedidos\pedidos\model\ItemDoPedido.class

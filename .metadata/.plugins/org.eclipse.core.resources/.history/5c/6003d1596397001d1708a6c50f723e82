@@ -1,0 +1,5 @@
+package com.pagamentos.pagamentos.service;
+
+public class PagamentoService {
+
+}

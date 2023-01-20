@@ -1,0 +1,18 @@
+package com.pagamentos.pagamentos.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.modelmapper.ModelMapper;
+
+import com.pagamentos.pagamentos.repository.PagamentoRepository;
+
+@Service
+public class PagamentoService {
+	
+	@Autowired
+	private PagamentoRepository repository;
+	
+	@Autowired
+	private ModelMapper modelMapper;
+
+}

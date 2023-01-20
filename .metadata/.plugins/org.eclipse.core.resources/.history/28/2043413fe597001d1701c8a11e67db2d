@@ -1,0 +1,5 @@
+package com.pagamentos.pagamentos.config;
+
+public class Configuracao {
+
+}

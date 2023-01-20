@@ -1,0 +1,5 @@
+package com.pagamentos.pagamentos.dto;
+
+public class PagamentoDto {
+
+}

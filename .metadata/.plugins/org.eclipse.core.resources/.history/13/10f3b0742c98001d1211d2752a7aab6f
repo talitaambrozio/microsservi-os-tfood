@@ -1,0 +1,5 @@
+package com.pagamentos.pagamentos.http;
+
+public interface PedidoClient {
+
+}
